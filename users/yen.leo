@@ -706,11 +706,16 @@ make.start()
 
 ### 虎科大機械設計工程系
 
+##四設二乙
+
+##40423213
+
+##李世欽
 &lt;small&gt;
-Created by [四設二乙40423213李世欽](http://mdecourse.github.io/2016fallcadp_hw/blog/)
+Created by [四設二乙40423213](http://mdecourse.github.io/2016fallcadp_hw/blog/)
 &lt;/small&gt;
 
-[40423213  李世欽](blog/index.html)
+[乙班電腦輔助設計實習課程網誌](blog/index.html)
 
 </t>
 <t tx="leo.20161014111031.9">&lt;section&gt;
