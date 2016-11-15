@@ -29,7 +29,7 @@
 <v t="leo.20161014111031.7" a="E"><vh>封面投影片</vh>
 <v t="leo.20161014111031.8"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20161014111031.9"><vh>三大主題教學</vh>
+<v t="leo.20161014111031.9" a="E"><vh>三大主題教學</vh>
 <v t="leo.20161014111031.10" a="E"><vh>主題教學</vh>
 <v t="leo.20161014111031.11"><vh>電腦輔助設計在教什麼?</vh></v>
 </v>
@@ -52,7 +52,7 @@
 <v t="leo.20161014111031.23"><vh>高效執行力</vh></v>
 </v>
 </v>
-<v t="leo.20161014111031.24"><vh>電腦輔助設計課程內涵</vh>
+<v t="leo.20161014111031.24" a="E"><vh>電腦輔助設計課程內涵</vh>
 <v t="leo.20161014111031.25" a="E"><vh>電腦輔助設計課程內涵</vh>
 <v t="leo.20161014111031.26"><vh>CAD 教學主題</vh></v>
 </v>
@@ -469,6 +469,9 @@ redirecting ....
     &lt;meta charset="utf-8"&gt;
 &lt;title&gt;
 2016 Fall 電腦輔助設計實習課程
+四設二乙
+40423213
+李世欽
 &lt;/title&gt;
     &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
     &lt;meta name="author" content="Hakim El Hattab"&gt;
@@ -706,11 +709,6 @@ make.start()
 
 ### 虎科大機械設計工程系
 
-##四設二乙
-
-##40423213
-
-##李世欽
 &lt;small&gt;
 Created by [四設二乙40423213](http://mdecourse.github.io/2016fallcadp_hw/blog/)
 &lt;/small&gt;
