@@ -65,7 +65,7 @@
 <v t="leo.20161014111031.31" a="E"><vh>Solvespace 操作練習</vh>
 <v t="leo.20161014111031.32"><vh>Solvespace 實習</vh></v>
 </v>
-<v t="leo.20161014111031.33"><vh>OnShape 操作練習</vh>
+<v t="leo.20161014111031.33" a="E"><vh>OnShape 操作練習</vh>
 <v t="leo.20161014111031.34"><vh>OnShape 實習</vh></v>
 </v>
 <v t="leo.20161014111031.35"><vh>網際自評系統</vh>
@@ -110,10 +110,11 @@
 <v t="amd.20160727114506.1" a="E"><vh>201609</vh>
 <v t="leo.20170112132750.1"><vh>@edit 20161023.md</vh></v>
 <v t="leo.20170113010819.1"><vh>@edit 20170113.md</vh></v>
+<v t="leo.20170113051641.1"><vh>@edit 20170113_1.md</vh></v>
 </v>
 </v>
 </v>
-<v t="amd.20160106094754.1"><vh>@path ./../content/pages</vh>
+<v t="amd.20160106094754.1" a="E"><vh>@path ./../content/pages</vh>
 <v t="amd.20160106094829.1" a="E"><vh>yen 所寫的 pages 文章</vh>
 <v t="amd.20160106094844.1"><vh>@edit pages_1.md</vh></v>
 </v>
