@@ -711,7 +711,7 @@ make.start()
 Created by [40423233](http://chiamingyen.github.io/kmolab/blog/)
 &lt;/small&gt;
 
-[乙班電腦輔助設計實習課程網誌](https://mdecourse.github.io/2016fallcadpb/blog)
+[乙班電腦輔助設計實習課程網誌](https://40423233.github.io/2016fallcadp_hw/blog/)
 
 [Vimeo 上課影片](https://vimeo.com/user24079973/videos)
 </t>
