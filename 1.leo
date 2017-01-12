@@ -65,7 +65,7 @@
 <v t="leo.20161014111031.31" a="E"><vh>Solvespace 操作練習</vh>
 <v t="leo.20161014111031.32"><vh>Solvespace 實習</vh></v>
 </v>
-<v t="leo.20161014111031.33"><vh>OnShape 操作練習</vh>
+<v t="leo.20161014111031.33" a="E"><vh>OnShape 操作練習</vh>
 <v t="leo.20161014111031.34"><vh>OnShape 實習</vh></v>
 </v>
 <v t="leo.20161014111031.35"><vh>網際自評系統</vh>
@@ -77,7 +77,7 @@
 <v t="leo.20161014111031.39"><vh>下載可攜程式環境</vh></v>
 </v>
 </v>
-<v t="leo.20161014111031.40"><vh>各式內容引用範例</vh>
+<v t="leo.20161014111031.40" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20161014111031.41" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20161014111031.42"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -109,7 +109,7 @@
 <v t="amd.20160106093454.1" a="E"><vh>yen 所寫的網誌文章</vh>
 <v t="amd.20160727114506.1" a="E"><vh>201609</vh>
 <v t="leo.20170112132750.1"><vh>@edit 20161023.md</vh></v>
-<v t="leo.20170113010819.1"><vh>@edit 20170113.md</vh></v>
+<v t="leo.20170113001425.1"><vh>@edit 20170113.md</vh></v>
 </v>
 </v>
 </v>
@@ -720,6 +720,16 @@ Created by [四設二乙40423213](http://mdecourse.github.io/2016fallcadp_hw/blo
 @others
 &lt;/section&gt;
 </t>
+<t tx="leo.20170113001425.1">@language md
+Title: 2016Fall 程式練習題3
+Date: 2017-01-13 00:00
+Category: Misc
+Tags: 使用導引
+Author: 40423213
+
+&lt;iframe src="file:///Y:/tmp/2016fallcadp_hw/w13/w13.html" width="700" height="550"&gt;&lt;/iframe&gt;
+&lt;img src="Y:\tmp\2016fallcadp_hw\w12\1.png"
+&lt;img src="Y:\tmp\2016fallcadp_hw\w12\2.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
 <t tx="yen.20161022124416.1">@language python
 import os
 import subprocess
