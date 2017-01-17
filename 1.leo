@@ -9,82 +9,82 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="leo.20151212173315.1"><vh>@settings</vh>
+<v t="leo.20151212173315.1" a="E"><vh>@settings</vh>
 <v t="leo.20151212173315.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="leo.20151212173315.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
 <v t="amd.20160921213353.1"><vh>2016fall 簡報與網誌樣板系統</vh></v>
-<v t="amd.20160106095324.1"><vh>@path ./../</vh>
-<v t="leo.20151213173830.1"><vh>假如要在近端檢視, 使用下列按鈕</vh>
+<v t="amd.20160106095324.1" a="E"><vh>@path ./../</vh>
+<v t="leo.20151213173830.1" a="E"><vh>假如要在近端檢視, 使用下列按鈕</vh>
 <v t="leo.20151213085727.1"><vh>@button pelican-blog</vh></v>
 </v>
-<v t="amd.20151215180106.1"><vh>設定與開發</vh>
+<v t="amd.20151215180106.1" a="E"><vh>設定與開發</vh>
 <v t="leo.20161013190948.1"><vh>@@edit index.html</vh></v>
-<v t="leo.20161014111031.1"><vh>@clean index.html</vh>
-<v t="leo.20161014111031.2"><vh>html</vh>
+<v t="leo.20161014111031.1" a="E"><vh>@clean index.html</vh>
+<v t="leo.20161014111031.2" a="E"><vh>html</vh>
 <v t="leo.20161014111031.3"><vh>head</vh></v>
-<v t="leo.20161014111031.4"><vh>body</vh>
-<v t="leo.20161014111031.5"><vh>reveal div</vh>
-<v t="leo.20161014111031.6"><vh>slides div</vh>
-<v t="leo.20161014111031.7"><vh>封面投影片</vh>
+<v t="leo.20161014111031.4" a="E"><vh>body</vh>
+<v t="leo.20161014111031.5" a="E"><vh>reveal div</vh>
+<v t="leo.20161014111031.6" a="E"><vh>slides div</vh>
+<v t="leo.20161014111031.7" a="E"><vh>封面投影片</vh>
 <v t="leo.20161014111031.8"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20161014111031.9"><vh>三大主題教學</vh>
-<v t="leo.20161014111031.10"><vh>主題教學</vh>
+<v t="leo.20161014111031.9" a="E"><vh>三大主題教學</vh>
+<v t="leo.20161014111031.10" a="E"><vh>主題教學</vh>
 <v t="leo.20161014111031.11"><vh>電腦輔助設計在教什麼?</vh></v>
 </v>
-<v t="leo.20161014111031.12"><vh>主題教學內容</vh>
+<v t="leo.20161014111031.12" a="E"><vh>主題教學內容</vh>
 <v t="leo.20161014111031.13"><vh>電腦輔助設計在教什麼?</vh></v>
 </v>
-<v t="leo.20161014111031.14"><vh>相關課程</vh>
+<v t="leo.20161014111031.14" a="E"><vh>相關課程</vh>
 <v t="leo.20161014111031.15"><vh>電腦輔助設計系列課程</vh></v>
 </v>
-<v t="leo.20161014111031.16"><vh>創造力</vh>
+<v t="leo.20161014111031.16" a="E"><vh>創造力</vh>
 <v t="leo.20161014111031.17"><vh>何謂創造力?</vh></v>
 </v>
-<v t="leo.20161014111031.18"><vh>創造力</vh>
+<v t="leo.20161014111031.18" a="E"><vh>創造力</vh>
 <v t="leo.20161014111031.19"><vh>何謂創造力?</vh></v>
 </v>
-<v t="leo.20161014111031.20"><vh>所謂自學</vh>
+<v t="leo.20161014111031.20" a="E"><vh>所謂自學</vh>
 <v t="leo.20161014111031.21"><vh>自學的訓練</vh></v>
 </v>
-<v t="leo.20161014111031.22"><vh>執行力</vh>
+<v t="leo.20161014111031.22" a="E"><vh>執行力</vh>
 <v t="leo.20161014111031.23"><vh>高效執行力</vh></v>
 </v>
 </v>
-<v t="leo.20161014111031.24"><vh>電腦輔助設計課程內涵</vh>
-<v t="leo.20161014111031.25"><vh>電腦輔助設計課程內涵</vh>
+<v t="leo.20161014111031.24" a="E"><vh>電腦輔助設計課程內涵</vh>
+<v t="leo.20161014111031.25" a="E"><vh>電腦輔助設計課程內涵</vh>
 <v t="leo.20161014111031.26"><vh>CAD 教學主題</vh></v>
 </v>
-<v t="leo.20161014111031.27"><vh>Github pages 網頁</vh>
+<v t="leo.20161014111031.27" a="E"><vh>Github pages 網頁</vh>
 <v t="leo.20161014111031.28"><vh>各學員任務</vh></v>
 </v>
-<v t="leo.20161014111031.29"><vh>所有操作都必須拍影片</vh>
+<v t="leo.20161014111031.29" a="E"><vh>所有操作都必須拍影片</vh>
 <v t="leo.20161014111031.30"><vh>操作影片</vh></v>
 </v>
-<v t="leo.20161014111031.31"><vh>Solvespace 操作練習</vh>
+<v t="leo.20161014111031.31" a="E"><vh>Solvespace 操作練習</vh>
 <v t="leo.20161014111031.32"><vh>Solvespace 實習</vh></v>
 </v>
-<v t="leo.20161014111031.33"><vh>OnShape 操作練習</vh>
+<v t="leo.20161014111031.33" a="E"><vh>OnShape 操作練習</vh>
 <v t="leo.20161014111031.34"><vh>OnShape 實習</vh></v>
 </v>
 <v t="leo.20161014111031.35"><vh>網際自評系統</vh>
 <v t="leo.20161014111031.36"><vh>Flask 網際程式</vh></v>
 </v>
 </v>
-<v t="leo.20161014111031.37"><vh>Windows 環境下可攜環境</vh>
-<v t="leo.20161014111031.38"><vh>下載 miniconda 可攜環境</vh>
+<v t="leo.20161014111031.37" a="E"><vh>Windows 環境下可攜環境</vh>
+<v t="leo.20161014111031.38" a="E"><vh>下載 miniconda 可攜環境</vh>
 <v t="leo.20161014111031.39"><vh>下載可攜程式環境</vh></v>
 </v>
 </v>
-<v t="leo.20161014111031.40"><vh>各式內容引用範例</vh>
-<v t="leo.20161014111031.41"><vh>導入數學符號與方程式</vh>
+<v t="leo.20161014111031.40" a="E"><vh>各式內容引用範例</vh>
+<v t="leo.20161014111031.41" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20161014111031.42"><vh>LaTeX 格式方程式</vh></v>
 </v>
-<v t="leo.20161014111031.43"><vh>導入縮排程式碼</vh>
+<v t="leo.20161014111031.43" a="E"><vh>導入縮排程式碼</vh>
 <v t="leo.20161014111031.44"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20161014111031.45"><vh>導入影片</vh>
+<v t="leo.20161014111031.45" a="E"><vh>導入影片</vh>
 <v t="leo.20161014111031.46"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
@@ -105,29 +105,21 @@
 </v>
 <v t="amd.20151215170350.1"><vh>以下為 content 目錄中的 md 檔案</vh></v>
 <v t="amd.20151216001126.1"><vh>md 檔案範例</vh></v>
-<v t="amd.20151215170031.1"><vh>@path ./../content</vh>
-<v t="amd.20160106093454.1"><vh>yen 所寫的網誌文章</vh>
-<v t="amd.20160727114506.1"><vh>201609</vh>
-<<<<<<< HEAD
-<v t="leo.20170113073627.1"><vh>@edit 20161023.md</vh></v>
-<v t="leo.20170113075322.1"><vh>@edit 20170113.md</vh></v>
-<v t="leo.20170113075540.1"><vh>@edit 20170113_1.md</vh></v>
-<v t="leo.20170115024554.1"><vh>@edit 20170115.md</vh></v>
-=======
+<v t="amd.20151215170031.1" a="E"><vh>@path ./../content</vh>
+<v t="amd.20160106093454.1" a="E"><vh>yen 所寫的網誌文章</vh>
+<v t="amd.20160727114506.1" a="E"><vh>201609</vh>
 <v t="leo.20170112132750.1"><vh>@edit 20161023.md</vh></v>
-<v t="leo.20170113010819.1"><vh>@edit 20170113.md</vh></v>
-<v t="leo.20170113055146.1"><vh>@edit 20170113_1.md</vh></v>
->>>>>>> 9a4964cfc854ae022e20beb6716b81ec32107d2f
+<v t="leo.20170113001425.1"><vh>@edit 20170113.md</vh></v>
 </v>
 </v>
 </v>
 <v t="amd.20160106094754.1"><vh>@path ./../content/pages</vh>
-<v t="amd.20160106094829.1"><vh>yen 所寫的 pages 文章</vh>
+<v t="amd.20160106094829.1" a="E"><vh>yen 所寫的 pages 文章</vh>
 <v t="amd.20160106094844.1"><vh>@edit pages_1.md</vh></v>
 </v>
 </v>
 <v t="amd.20161004202833.1"><vh>@edit ../README.md</vh></v>
-<v t="yen.20161022132258.1" a="E"><vh>移除子模組</vh>
+<v t="yen.20161022132258.1"><vh>移除子模組</vh>
 <v t="yen.20161022132307.1" a="E"><vh>@path ./../</vh>
 <v t="yen.20161022132317.1"><vh>@edit .gitmodules</vh></v>
 <v t="yen.20161022132456.1" a="E"><vh>@path .git</vh>
@@ -477,12 +469,9 @@ redirecting ....
     &lt;meta charset="utf-8"&gt;
 &lt;title&gt;
 2016 Fall 電腦輔助設計實習課程
-<<<<<<< HEAD
-=======
 四設二乙
 40423213
 李世欽
->>>>>>> 9a4964cfc854ae022e20beb6716b81ec32107d2f
 &lt;/title&gt;
     &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
     &lt;meta name="author" content="Hakim El Hattab"&gt;
@@ -721,25 +710,26 @@ make.start()
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
-<<<<<<< HEAD
-Created by [40423233](http://chiamingyen.github.io/kmolab/blog/)
-&lt;/small&gt;
-
-[乙班電腦輔助設計實習課程網誌](file:///Y:/tmp/1/blog/index.html)
-
-[Vimeo 上課影片](https://vimeo.com/user24079973/videos)
-=======
 Created by [四設二乙40423213](http://mdecourse.github.io/2016fallcadp_hw/blog/)
 &lt;/small&gt;
 
 [乙班電腦輔助設計實習課程網誌](blog/index.html)
 
->>>>>>> 9a4964cfc854ae022e20beb6716b81ec32107d2f
 </t>
 <t tx="leo.20161014111031.9">&lt;section&gt;
 @others
 &lt;/section&gt;
 </t>
+<t tx="leo.20170113001425.1">@language md
+Title: 2016Fall 程式練習題3
+Date: 2017-01-13 00:00
+Category: Misc
+Tags: 使用導引
+Author: 40423213
+
+&lt;iframe src="file:///Y:/tmp/2016fallcadp_hw/w13/w13.html" width="700" height="550"&gt;&lt;/iframe&gt;
+&lt;img src="Y:\tmp\2016fallcadp_hw\w12\1.png"
+&lt;img src="Y:\tmp\2016fallcadp_hw\w12\2.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
 <t tx="yen.20161022124416.1">@language python
 import os
 import subprocess
