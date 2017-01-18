@@ -108,16 +108,9 @@
 <v t="amd.20151215170031.1"><vh>@path ./../content</vh>
 <v t="amd.20160106093454.1"><vh>yen 所寫的網誌文章</vh>
 <v t="amd.20160727114506.1"><vh>201609</vh>
-<<<<<<< HEAD
-<v t="leo.20170113073627.1"><vh>@edit 20161023.md</vh></v>
-<v t="leo.20170113075322.1"><vh>@edit 20170113.md</vh></v>
-<v t="leo.20170113075540.1"><vh>@edit 20170113_1.md</vh></v>
-<v t="leo.20170115024554.1"><vh>@edit 20170115.md</vh></v>
-=======
 <v t="leo.20170112132750.1"><vh>@edit 20161023.md</vh></v>
 <v t="leo.20170113010819.1"><vh>@edit 20170113.md</vh></v>
 <v t="leo.20170113055146.1"><vh>@edit 20170113_1.md</vh></v>
->>>>>>> 9a4964cfc854ae022e20beb6716b81ec32107d2f
 </v>
 </v>
 </v>
@@ -477,12 +470,9 @@ redirecting ....
     &lt;meta charset="utf-8"&gt;
 &lt;title&gt;
 2016 Fall 電腦輔助設計實習課程
-<<<<<<< HEAD
-=======
 四設二乙
 40423213
 李世欽
->>>>>>> 9a4964cfc854ae022e20beb6716b81ec32107d2f
 &lt;/title&gt;
     &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
     &lt;meta name="author" content="Hakim El Hattab"&gt;
@@ -721,20 +711,11 @@ make.start()
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
-<<<<<<< HEAD
-Created by [40423233](http://chiamingyen.github.io/kmolab/blog/)
-&lt;/small&gt;
-
-[乙班電腦輔助設計實習課程網誌](file:///Y:/tmp/1/blog/index.html)
-
-[Vimeo 上課影片](https://vimeo.com/user24079973/videos)
-=======
-Created by [四設二乙40423213](http://mdecourse.github.io/2016fallcadp_hw/blog/)
+Created by [四設二乙40423213](https://40423213.github.io/2016fallcadp_hw/blog/)
 &lt;/small&gt;
 
 [乙班電腦輔助設計實習課程網誌](blog/index.html)
 
->>>>>>> 9a4964cfc854ae022e20beb6716b81ec32107d2f
 </t>
 <t tx="leo.20161014111031.9">&lt;section&gt;
 @others
